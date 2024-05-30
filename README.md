@@ -14,4 +14,4 @@ Ce projet est un composant de slider/carrousel développé en React. Il permet d
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/Projet_React_Slider.git
+   git clone https://github.com/Mmec45/Projet_React_Slider.git
